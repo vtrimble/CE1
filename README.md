@@ -14,4 +14,4 @@ I have a missing waveform.  This can't be good.
 
 - [Ginny Trimble]( https://github.com/vtrimble/ECE281-student-accounts)
 
-![alt text](https://raw2.github.com/vtrimble/ECE281_CE1/master/CE1_Trimble/areas-of-smoke.png "There is smoke in CO!")
+![alt text](areas-of-smoke.png)
